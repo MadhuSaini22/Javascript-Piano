@@ -1,6 +1,9 @@
 *, *::before, *::after {
   box-sizing: border-box;
 }
+/* 
+---------TODO: Change the background color-----------------
+*/
 
 body {
   background-color: #0F0743;
